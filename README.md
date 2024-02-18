@@ -18,7 +18,7 @@
 
 ## Contact Me
 - [**LinkedIn**](https://www.linkedin.com/in/johndoyle523/) 
-- [**Email**](jpd2690@rit.edu)
+- [**Email**](mailto:jpd2690@rit.edu)
 
 <!--
 **jpdoyle96/jpdoyle96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
