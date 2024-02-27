@@ -5,10 +5,10 @@
 **Currently Learning:** Unreal Engine, Computer Vision, Advanced Algorithms
 
 ## 📚 Skills
-- **Programming Languages:** Python (my beloved), C#, C++, JavaScript, HTML+CSS, Java, C
+- **Programming Languages:** Python (my beloved), C#, C++, JavaScript/TypeScript, HTML+CSS, Java, C
 - **Frameworks and Libraries:** NumPy, Pandas, PyQT, Angular, React, MonoGame, DirectX11, and more!
 - **Databases and Engines:** Unity, PostgreSQL, MongoDB
-- **Tools:** Visual Studio, PyCharm, VS Code, git, vim, Jupyter Notebooks, Jira, GDB, Valgrind
+- **Tools:** Visual Studio, PyCharm, VS Code, git, vim, Jupyter Notebooks, Jira, MATLAB
 
 ## 🗺️ Projects
 - [**Puzzle Solvers:**](https://github.com/jpdoyle96/Puzzle-Solvers?tab=readme-ov-file) A collection of puzzle solvers and generators for Nikoli puzzle designs. Written in Python with plans to add a graphical display using either PyQT or Tkinter. (*currently in development*)
