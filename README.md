@@ -11,9 +11,9 @@
 - **Tools:** Visual Studio, PyCharm, VS Code, git, vim, Jupyter Notebooks, Jira, MATLAB
 
 ## 🗺️ Projects
+- [**Audio Visualizer:**](https://people.rit.edu/jpd2690/personal/AudioVisualizer/index.html) Simple website written in vanilla JavaScript, CSS, and HTML utilizing Canvas and AudioGraphs to display and animate based on the audio values of the current track.
 - [**Puzzle Solvers:**](https://github.com/jpdoyle96/Puzzle-Solvers?tab=readme-ov-file) A collection of puzzle solvers and generators for Nikoli puzzle designs. Written in Python with plans to add a graphical display using either PyQT or Tkinter. (*currently in development*)
 - [**Graphics Pipeline:**](https://github.com/jpdoyle96/DX11Starter) Simple implementation of a graphics rendering pipeline. Utilized C++ and DirectX11, with UI provided by ImGUI. 
-- [**Audio Visualizer:**](https://people.rit.edu/jpd2690/personal/AudioVisualizer/index.html) Simple website written in vanilla JavaScript, CSS, and HTML utilizing Canvas and AudioGraphs to display and animate based on the audio values of the current track.
 - [**Country Lookup:**](https://people.rit.edu/jpd2690/personal/GeoCountries/index.html) Simple website written in vanilla JavaScript, CSS, and HTML utilizing the REST Countries and MapBox APIs to allow the user to search and explore different countries around the globe.
 
 ## 🎮 Game Projects
