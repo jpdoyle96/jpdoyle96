@@ -18,8 +18,8 @@
 
 ## 🎮 Game Projects
 - **Traumatic Toybox:** First person stealth horror game developed using Unity in a small team. (*currently in development, private*)
-- [**Stendew Valley:**](https://github.com/HauntedPineapple/Stendew-Valley?tab=readme-ov-file) Mod for Stardew Valley developed in C# using SMAPI and Content Patcher. Assets and gameplay variables managed by JSON files.
 - [**Captive's Call:**](https://peachmere.itch.io/captives-call) 2D adventure puzzle game inspired by "Baba is You" and "Cadence of Hyrule" developed in Unity with a small team.
+- [**Stendew Valley:**](https://github.com/HauntedPineapple/Stendew-Valley?tab=readme-ov-file) Mod for Stardew Valley developed in C# using SMAPI and Content Patcher. Assets and gameplay variables managed by JSON files.
 - [**Par for the Curse:**](https://peachmere.itch.io/par-for-the-curse) 3D murder mystery and action mini golf game developed in Unity with a small team.
 
 ## ✉️ Contact Me
